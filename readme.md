@@ -6,3 +6,5 @@ assim ele irá criar um arquivo js normalmente para utilizar
 
 Voce pode conferir os binarios como por exemplo o tsc em ```node_modules/.bin```
 
+Pode-se utilizar o arquivo de configuração  do typescript para que os arquivos compilados em .js fiquem em outra pasta.
+Descomente o parâmetro ```outDir``` e configure do seu modo.
